@@ -1,0 +1,24 @@
+{
+  "name": "project-50",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hyper.fun/fluentui-emoji-person-juggling-high-contrast-default": "^2.0.0",
+    "font-work-sans": "^1.0.3",
+    "gita-bakwan80-riris": "^4.1.4",
+    "hilarious_marmoset-teagooddev": "^1.1.2",
+    "lib-uoc-framework": "^0.0.0",
+    "mechanical_tortoise_yellow-21": "^2.4.4",
+    "ocha-lepet16-miaww": "^4.4.4",
+    "reddragon": "^1.0.1",
+    "unleash-client-k": "^3.9.1-k",
+    "vue-cookie-consent-banner": "^0.0.3"
+  }
+}
